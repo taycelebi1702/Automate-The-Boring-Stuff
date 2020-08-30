@@ -7,4 +7,4 @@ I do not see Automate The Boring Stuff as a quick sprint. I realized when I lear
 
 
 
-**I made a commitment to publish all my work, document my entire journey so other people can learn from my mistakes.This repository is my official start.**
+**I made a commitment to publish all my work, document my entire journey so other people can learn from my mistakes. This repository is my official start.**
