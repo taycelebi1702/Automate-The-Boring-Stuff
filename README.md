@@ -1,4 +1,4 @@
-**Automate-The-Boring-Stuff**
+# **Automate-The-Boring-Stuff**
 
 **Welcome! Over 6 months I worked with this book and I keep working with it. Automate The Boring Stuff taught me the Fundamentals of Programming.**
 _______________________________________________________________________________________________________________________________________________________________
